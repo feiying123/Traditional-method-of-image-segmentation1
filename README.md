@@ -1,0 +1,1 @@
+# Traditional-method-of-image-segmentation1
